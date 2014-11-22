@@ -1,0 +1,5 @@
+D:\Projeler\bootstrap-grid-halfs-css-creator\bootstrap-grid-halfs-css-creator\bin\Debug\bootstrap-grid-halfs-css-creator.exe
+D:\Projeler\bootstrap-grid-halfs-css-creator\bootstrap-grid-halfs-css-creator\bin\Debug\bootstrap-grid-halfs-css-creator.pdb
+D:\Projeler\bootstrap-grid-halfs-css-creator\bootstrap-grid-halfs-css-creator\obj\Debug\bootstrap-grid-halfs-css-creator.csprojResolveAssemblyReference.cache
+D:\Projeler\bootstrap-grid-halfs-css-creator\bootstrap-grid-halfs-css-creator\obj\Debug\bootstrap-grid-halfs-css-creator.exe
+D:\Projeler\bootstrap-grid-halfs-css-creator\bootstrap-grid-halfs-css-creator\obj\Debug\bootstrap-grid-halfs-css-creator.pdb
